@@ -1,7 +1,7 @@
 # CISC 1400 Discrete Structures Final Project
 
 ## Overview
-The purpose of this project was to develop a very basic personal website project written in HTML file and including a `.jpeg` image.
+The purpose of this project was to develop a very basic personal website project written in HTML and including a `.jpeg` image.
 
 ## Project Structure
 ```
